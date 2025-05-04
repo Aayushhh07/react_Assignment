@@ -21,27 +21,6 @@ Perfect for showcasing products, startups, portfolios, or any web-based service 
 - **AOS (Animate On Scroll)**
 - **React Router DOM**
 
-## 📂 Project Structure
-
-├── public/
-├── src/
-│   ├── assets/
-│   │   └── images/
-│   ├── components/
-│   │   ├── header.jsx
-│   │   ├── card.jsx
-│   │   ├── footer.jsx
-│   │   └── aboutus.jsx
-│   ├── pages/
-│   │   └── home.jsx
-│   │   └── about.jsx
-│   │   └── contact.jsx
-│   ├── routes/
-│   │   
-│   ├── App.jsx
-│   └── main.jsx
-│   └── index.html
-└── package.json
 
 
 
